@@ -1,0 +1,40 @@
+.d1{
+	width: 150px;
+	height: 150px;
+	background-color: #990;
+	position: fixed;
+	z-index: 1;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	margin: auto;
+}
+.d2{
+	width: 300px;
+	height: 300px;
+	background-color: #a0a;
+	position: static;
+}
+.d3{
+	width: 200px;
+	height: 200px;
+	background-color: #0aa;
+	position: sticky;
+	z-index: 2;
+	top: 20px;
+}
+.d4{
+	width: 300px;
+	height: 1000px;
+	background-color: #292;
+	position: relative;
+	margin: auto;
+}
+.d5{
+	width: 100px;
+	height: 100px;
+	background-color: #a50;
+	position: absolute;
+	top: -10px;
+	right: -10px;
+}

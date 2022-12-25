@@ -1,0 +1,52 @@
+@media (max-width: 576px) {
+  nav > ul {
+    display: none;
+  }
+  .mas12,
+  .mass2 {
+    display: flex;
+    flex-flow: column;
+  }
+  .e1,
+  .e2,
+  .e3 {
+    display: flex;
+    flex-flow: column;
+  }
+  .mas2 {
+    width: 100%;
+    height: 1059px;
+  }
+
+  .submenu {
+    display: flex;
+    margin-left: 300px;
+    border: 1px solid;
+  }
+  .xx {
+    display: flex;
+  }
+  .img0 {
+    width: 300px;
+    height: 225px;
+  }
+  .nk1 {
+    padding-top: 15px;
+  }
+  .chat {
+    display: none;
+  }
+  .mass3 {
+    padding: 20px;
+  }
+  td > input {
+    width: 140px;
+  }
+  td > textarea {
+    width: 200px;
+  }
+  .xx {
+    right: 15px;
+    bottom: 10px;
+  }
+}
